@@ -1,0 +1,3 @@
+# Hello! I'm Jon. Welcome to my GitHub! 👾
+## I'm a Full Stack Developer that enjoys to build cool stuff.  Sometimes I build useful stuff, and sometimes I just build fun and entirely useless stuff! But regardless of the project, I'm always learning. 🌱
+### A little background...
