@@ -18,7 +18,7 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 
 ### Here are some of the projects and applications I've created 🚀
 #### The Culchr WebApp 
-<img src="https://github.com/GoloisaNinja/GoloisaNinja/blob/main/Screen%20Shot%202021-05-05%20at%2010.15.53%20PM.png" alt="Culchr Application" width="325" align="center">
+<img src="https://github.com/GoloisaNinja/GoloisaNinja/blob/main/moviePartners.png" alt="Movie Partners" width="425" align="center">
 >I built and designed Culchr to provide you and your HR department with value propositions based on whatever buzzword you think will help indoctrinate your employees most!  
 
 #### Shortly
