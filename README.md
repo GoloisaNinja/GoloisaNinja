@@ -17,9 +17,9 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 * Netlify and Jamstack
 
 ### Here are some of the projects and applications I've created 🚀
-#### The Culchr WebApp 
-<img src="https://github.com/GoloisaNinja/GoloisaNinja/blob/main/moviePartners.png" alt="Movie Partners" width="425" align="center">
->I built and designed Culchr to provide you and your HR department with value propositions based on whatever buzzword you think will help indoctrinate your employees most!  
+#### Movie Partners
+![Movie Partners](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/moviePartners.png)
+> I built and designed Movie Partners because trying to manage watchlists with my wife was impossible - this app lets us share watchlist and mark movies and shows as favorites!  
 
 #### Shortly
 ![Shortly URL](../../blob/main/Screen%20Shot%202021-05-05%20at%2010.27.41%20PM.png)
