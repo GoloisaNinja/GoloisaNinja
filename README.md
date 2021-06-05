@@ -22,23 +22,23 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 > I built and designed Movie Partners because trying to manage watchlists with my wife was impossible - this app lets us share watchlist and mark movies and shows as favorites!  
 
 #### Shortly
-![Shortly URL](../../blob/main/Screen%20Shot%202021-05-05%20at%2010.27.41%20PM.png)
->Shortly is built with Vue and is bonafide URL shortener - because typing long urls is lame and hurts my wrists!  
+![Shortly URL](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/shortly.png)
+> Shortly is built with Vue and is bonafide URL shortener - because typing long urls is lame and hurts my wrists!  
 
 
-#### Social Devs
-![Social Dev Site](../../blob/main/Screen%20Shot%202021-05-05%20at%2010.42.57%20PM.png)
->Social Devs was my first go at Social Media Clone using React and Redux, where authenticated users can showcase their profiles and post to forum boards.  
+#### Hat Attack!
+![Hat Attack Site](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/hatattack.png)
+> Hat Attack is a GatsbyJS frontend build that uses Shopify as CMS for inventory and payment processing!  
 
 
 #### The Useddit Reddit Clone
-![Reddit Clone](../../blob/main/Screen%20Shot%202021-05-05%20at%2011.02.36%20PM.png)
->A Vue clone of Reddit using VuexFire and Firestore for a real-time database that allows authenticated users to post text, images, and gifs.  
+![Reddit Clone](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/redditclone.png)
+> A Vue clone of Reddit using VuexFire and Firestore for a real-time database that allows authenticated users to post text, images, and gifs.  
 
 
 #### The Jcodes Dev Blog
-![My Blog](../../blob/main/Screen%20Shot%202021-06-05%20at%2012.25.25%20AM.png)
->My GatsbyJS build that uses a decoupled Strapi CMS and GraphQL queries to snag all the dumb stuff I write using webhooks!  
+![My Blog](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/jcodesblog.png)
+> My GatsbyJS build that uses a decoupled Strapi CMS and GraphQL queries to snag all the dumb stuff I write using webhooks!  
   
 # Because a good developer is always learning something new, here's a list of what I'm learning right now! 🤓
 * Java
