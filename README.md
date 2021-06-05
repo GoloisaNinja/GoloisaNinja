@@ -33,7 +33,7 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 
 #### The Useddit Reddit Clone
 ![Reddit Clone](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/redditclone.png)
-> A Vue clone of Reddit using VuexFire and Firestore for a real-time database that allows authenticated users to post text, images, and gifs.  
+> Useddit is a VueJS clone of Reddit using VuexFire and Firestore for a real-time database that allows authentication with Google. Users can post texts, images, and gifs. Light/Dark theme switcher FTW! 
 
 
 #### The Jcodes Dev Blog
