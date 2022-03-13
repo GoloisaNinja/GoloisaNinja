@@ -37,8 +37,9 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 
 
 #### The Jcodes Dev Blog
-![My Blog](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/jcodesblog.png)
+![My Blog](https://user-images.githubusercontent.com/47168633/158047079-6b149661-e2d9-47af-9249-255c3d3c239a.png)
 > My GatsbyJS build that uses a decoupled Strapi CMS and GraphQL queries to snag all the dumb stuff I write using webhooks!  
+
   
 # Because a good developer is always learning something new, here's a list of what I'm learning right now! 🤓
 * Java
