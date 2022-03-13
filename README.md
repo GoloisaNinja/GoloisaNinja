@@ -37,7 +37,7 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 
 
 #### The Jcodes Dev Blog
-![My Blog](https://user-images.githubusercontent.com/47168633/158047079-6b149661-e2d9-47af-9249-255c3d3c239a.png)
+![My Blog](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/blogRedesign.png)
 > My GatsbyJS build that uses a decoupled Strapi CMS and GraphQL queries to snag all the dumb stuff I write using webhooks!  
 
   
