@@ -18,11 +18,11 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 
 ### Here are some of the projects and applications I've created 🚀
 #### Movie Partners
-![Movie Partners](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/moviePartners.png)
+[![Movie Partners](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/moviePartners.png)](https://www.wewatch.pw)
 > I built and designed Movie Partners because trying to manage watchlists with my wife was impossible - this app lets us share watchlist and mark movies and shows as favorites!  
 
 #### Shortly
-![Shortly URL](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/shortly.png)
+[![Shortly URL](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/shortly.png)](https://fpd.pw)
 > Shortly is built with Vue and is bonafide URL shortener - because typing long urls is lame and hurts my wrists!  
 
 
