@@ -26,13 +26,13 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 > Shortly is built with Vue and is bonafide URL shortener - because typing long urls is lame and hurts my wrists!  
 
 
-#### Hat Attack!
-![Hat Attack Site](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/hatattack.png)
+#### hello bourb(on)
+[![HelloBourbon](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/hellobourbon.png)](https://hellogobourbon.netlify.app)
 > Hat Attack is a GatsbyJS frontend build that uses Shopify as CMS for inventory and payment processing!  
 
 
-#### The Useddit Reddit Clone
-![Reddit Clone](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/redditclone.png)
+#### OpenMarkIO
+[![WYSIWYG](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/openmark.png)](https://openmarkio.netlify.app)
 > Useddit is a VueJS clone of Reddit using VuexFire and Firestore for a real-time database that allows authentication with Google. Users can post texts, images, and gifs. Light/Dark theme switcher FTW! 
 
 
@@ -51,4 +51,4 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 ## Maybe we should work together!  For even more projects, and a contact form that you can use to get in touch with me.  Head over to [My Portfolio Site](https://joncollins.dev).  I'd love the chance to speak with you and connect!  I'm open to all opportunities.  Speaking of opportunities - if you have a project you'd like to colloborate on, or an open source project you think might interest me, make sure to get in touch!  I'd love to work together, grow my skills, and make something awesome!  Lastly, make sure to check out my [Jcodes Developer Blog](https://jcodes.blog) for tech related content with a touch of quirky!
 
 # Follow me/Reach me on Social Media! 🐥
-[![Twitter](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/twitter.png)](https://twitter.com/GoloisaNinja) [![Reddit](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/reddit.png)](https://reddit.com/user/GoloisaNinja) [![Linkedin](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/linkedin.png)](https://linkedin.com)
+[![Mastodon](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/mastodon.png)](https://hachyderm.io/@joncollinsdev) [![Twitter](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/twitter.png)](https://twitter.com/GoloisaNinja) [![Reddit](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/reddit.png)](https://reddit.com/user/GoloisaNinja) [![Linkedin](https://github.com/GoloisaNinja/GoloisaNinja/blob/main/linkedin.png)](https://www.linkedin.com/in/jonmcollins/)
