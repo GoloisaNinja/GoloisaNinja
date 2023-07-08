@@ -1,17 +1,17 @@
 # Hello! I'm Jon. Welcome to my GitHub! 👾
-## I'm a Full Stack Developer that enjoys to build cool stuff.  Sometimes I build useful stuff, and sometimes I just build fun and entirely useless stuff! But regardless of the project, I'm always learning. 🌱
+## I'm a Software Developer that enjoys to build cool stuff.  Sometimes I build useful stuff, and sometimes I just build fun and entirely useless stuff! But regardless of the project, I'm always learning. 🌱
 ### A little background...
-To say I had rough beginnings would be an understatement.  After floundering in several retail jobs, I took a job as a financial broker.  I would stay in this role for a decade before, along with several other life changes, I eventually just admitted my love affair with tech, and jumped in feet first.  I took a tech sector job in late 2014 and began writing code in 2015.  It was electric, that feeling when you know you are finally doing the thing you love.  It's been off to the races ever since. 
+To say I had rough beginnings would be an understatement.  After floundering in several retail jobs, I took a job as a financial broker.  I would stay in this role for a decade before, along with several other life changes, I eventually just admitted my love affair with tech, and jumped in feet first.  I took a tech sector job in late 2014 and began writing code in 2015.  It was electric, that feeling when you know you are finally doing the thing you love.  I've been passionately creating software ever since! 
 ### A look at the stacks and technologies that I like to work in 💾
 * JavaScript
 * React
-* Vue
+* Java
 * Gatsby
 * NodeJS
 * Express
 * MongoDB
-* Google Firestore
-* GraphQL
+* Golang
+* SQL
 * Strapi
 * Shopify
 * Netlify and Jamstack
@@ -44,8 +44,8 @@ To say I had rough beginnings would be an understatement.  After floundering in 
 # Because a good developer is always learning something new, here's a list of what I'm learning right now! 🤓
 * Java
 * Next
-* Nuxt
-* Wordpress
+* SQL
+* React Native
 
 # Where you can reach me 📞 📧
 ## Maybe we should work together!  For even more projects, and a contact form that you can use to get in touch with me.  Head over to [My Portfolio Site](https://joncollins.dev).  I'd love the chance to speak with you and connect!  I'm open to all opportunities.  Speaking of opportunities - if you have a project you'd like to colloborate on, or an open source project you think might interest me, make sure to get in touch!  I'd love to work together, grow my skills, and make something awesome!  Lastly, make sure to check out my [Jcodes Developer Blog](https://jcodes.blog) for tech related content with a touch of quirky!
